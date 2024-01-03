@@ -17,7 +17,7 @@ if (isset($_POST["send"])) {
     $mail->Username = 'adamebert27@gmail.com';
     // $mail->Username = $_POST["email"];
     // $mail->Password = '';
-    $mail->Password = 'rakgtghsfjtlurtw';
+    $mail->Password = 'rakgtghsfjtlurtwa';
     $mail->SMTPSecure = 'ssl';
     $mail->Port = 465;
     // var_dump($_POST["email"]);
